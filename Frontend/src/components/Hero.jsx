@@ -39,7 +39,7 @@ const Hero = () => {
         {/* Image Section */}
         <div className="w-full md:w-1/2 flex justify-center mb-6 md:mb-0">
           <img
-            src={assets.hero_img1}
+            src={assets.hero_img}
             alt="Hero"
             className="max-w-[85%] md:max-w-full h-72 sm:h-80 md:h-[30rem] object-contain rounded-lg"
           />
